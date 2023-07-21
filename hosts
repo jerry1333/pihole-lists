@@ -1,7 +1,7 @@
 #=====================================
 # Title: Hosts list
 
-0.0.0.0 tvp\.info
-0.0.0.0 .*\.tvp\.info
-0.0.0.0 tvp\.pl
-0.0.0.0 .*\.tvp\.pl
+tvp\.info
+.*\.tvp\.info
+tvp\.pl
+.*\.tvp\.pl
